@@ -1,8 +1,9 @@
 # qr
 
-Permite crear imagenes QR en segundos.
+It allows you to create QR images in seconds.
 
-Su sintaxis varia segun el sistema operativo pero su funcionamiamiento no se ve alterado.
+Its syntax varies depending on the operating system but its operation is not altered.
 
-Windows: py qr.py url
-Linux: python3 qr.py url
+Windows: py qr.py URL
+
+Linux: python3 qr.py URL
